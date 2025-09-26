@@ -71,6 +71,7 @@ This dashboard focuses on tracking and analyzing key performance metrics for an 
 ---
 
 ## 📸 Screenshots
+https://github.com/Sitara235/ECOMMERCE-SALES-DASHBOARD/blob/main/ECOMMERCE%20SCREENSHORT.png
 
 
 
